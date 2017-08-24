@@ -1,0 +1,17 @@
+{
+  "name": "themovieyoulike",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "material-ui": "^0.19.0",
+    "meteor-node-stubs": "~0.2.4",
+    "moviedb": "^0.2.8",
+    "react": "^15.6.1",
+    "react-addons-pure-render-mixin": "^15.6.0",
+    "react-dom": "^15.6.1",
+    "themoviedatabase": "^1.1.1"
+  }
+}
